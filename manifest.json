@@ -1,0 +1,10 @@
+{
+  "name":"Zingora Fast Food & Cafe POS",
+  "short_name":"Zingora POS",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#f5f7fb",
+  "theme_color":"#111827",
+  "description":"Offline-first restaurant POS and inventory starter for Zingora Fast Food & Cafe.",
+  "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
